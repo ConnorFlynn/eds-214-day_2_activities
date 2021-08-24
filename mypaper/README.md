@@ -7,22 +7,20 @@
 
 This repository contains the data and code for our paper:
 
-> Authors, (YYYY). *Title of your paper goes here*. Name of journal/book
+> Authors, (YYYY). *Connor’s Research*. Name of journal/book
 > <https://doi.org/xxx/xxx>
 
 Our pre-print is online here:
 
-> Authors, (YYYY). *Title of your paper goes here*. Name of
-> journal/book, Accessed 24 Aug 2021. Online at
-> <https://doi.org/xxx/xxx>
+> Authors, (YYYY). *Connor’s Research*. Name of journal/book, Accessed
+> 24 Aug 2021. Online at <https://doi.org/xxx/xxx>
 
 ### How to cite
 
 Please cite this compendium as:
 
-> Authors, (2021). *Compendium of R code and data for Title of your
-> paper goes here*. Accessed 24 Aug 2021. Online at
-> <https://doi.org/xxx/xxx>
+> Authors, (2021). *Compendium of R code and data for Connor’s
+> Research*. Accessed 24 Aug 2021. Online at <https://doi.org/xxx/xxx>
 
 ## Contents
 
